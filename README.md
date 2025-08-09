@@ -1,15 +1,3 @@
-Perfect — let’s turn this into the **fine-grained “chef’s secret cookbook”** for *Agent Reads News*.
-This will include **everything**:
-
-* Step-by-step recipe flow
-* Every ingredient (library, API, function) with *why it’s there*
-* Example API calls & JSON responses
-* Code walkthroughs line-by-line where useful
-* Design trade-offs
-* Interview talking points you can drop in naturally
-
----
-
 # 📰 AGENT READS NEWS – THE CHEF’S SECRET COOKBOOK
 
 Welcome to your **kitchen for news automation**.
